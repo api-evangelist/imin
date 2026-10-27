@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-iMin is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://imin.com/
+iMin is a technology company that provides a platform for managing and optimizing digital assets and workflows. The company focuses on delivering integrated solutions for data handling, automation, and analytics, targeting enterprise customers seeking to streamline operations. iMin’s services include API-driven tools, customizable dashboards, and support for various data formats, aiming to enhance efficiency and insight across business processes.
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://imin.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/imin/](https://apis.io/providers/imin/).
